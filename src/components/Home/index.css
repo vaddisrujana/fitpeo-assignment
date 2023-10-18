@@ -1,0 +1,375 @@
+
+@media (min-width:767px)  {
+    .home-background{
+    display: flex;
+    font-family: "Roboto";
+    background-color: aliceblue;
+    }
+    .home-container{
+        height: 100vh;
+        width:80vw;
+        padding: 20px;
+    }
+    .home-container1{
+        display: flex;
+        justify-content: space-between;
+
+    }
+    .search-container{
+        margin-top: 18px;
+        background-color: white;
+    }
+    .product-container1{
+        display: flex;
+        justify-content: space-between;
+    }
+    .product-background{
+        background-color: white;
+        padding: 20px;
+        border-radius: 25px;
+    }
+    .search-container1{
+        margin-top: 15px;
+        margin-right: 20px;
+        background-color: aliceblue;
+        border-radius: 10px;
+    }
+    .product-heading{
+        font-size: 20px;
+    }
+    .item-heading{
+        font-size: 15px;
+    }
+    .para{
+        color: lightgray;
+        font-size: 12px;
+
+    }
+    .margin-right{
+        margin-right: 45px;
+        font-size: 15px;
+    }
+    .stock-margin{
+        margin-right: 40px;
+        font-size: 15px;
+    }
+    .price-margin{
+        margin-right: 50px;
+        font-size: 15px;
+    }
+    .sales-margin{
+        margin-right: 30px;
+        font-size: 15px;
+    }
+    .hand{
+        margin-top: 18px;
+        margin-left: 2px;
+        background-color: blanchedalmond;
+        border-radius: 7px;
+    }
+    .search-icon{
+        font-size: 20px;
+        margin: 5px;
+        
+    }
+    .search{
+        border-width: 0;
+    }
+    .search1{
+        border-width: 0;
+        background-color: aliceblue;
+    }
+    .container{
+        display: flex;
+        justify-content: space-between;
+    }
+    .container1{
+        background-color: white;
+        padding: 10px;
+        border-radius: 25px;
+        margin-right: 10px;
+        display: flex;
+        width:15vw;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    .para2{
+        font-size: 10px;
+    }
+    .head{
+        font-size: 20px;
+    }
+    .para1{
+        font-size: 15px;
+    }
+    .symbol{
+        font-size: 40px;
+        margin-top: 20px;
+        color:green;
+        background-color: lightgreen;
+        padding: 10px;
+        border-radius: 50px;
+    }
+    .symbol2{
+        font-size: 40px;
+        margin-top: 20px;
+        color:purple;
+        background-color: rgba(206, 133, 222, 0.947);
+        padding: 10px;
+        border-radius: 50px;
+    }
+    .symbol3{
+        font-size: 40px;
+        margin-top: 20px;
+        color:blue;
+        background-color: lightblue;
+        padding: 10px;
+        border-radius: 50px;
+    }
+    .symbol4{
+        font-size: 40px;
+        margin-top: 20px;
+        color:red;
+        background-color: lightpink;
+        padding: 10px;
+        border-radius: 50px;
+    }
+    .padding{
+        padding: 10px;
+        margin-left: 20px;
+    }
+    .image{
+        height: 5vh;
+        margin-top: 10px;
+        margin-right: 10px;
+    }
+    .para3{
+        font-size: 15px;
+        color: lightgray;
+    }
+    .select{
+        margin-top: 20px;
+    }
+    .bar-graph{
+        background-color: white;
+        width: 70vw;
+        margin-bottom: 20px;
+        margin-right: 20px;
+    }
+    .pie-chart{
+        background-color: white;
+        width: 30vw;
+        height: 40vh;
+        padding: 10px;
+    }
+    .flex{
+        display: flex;
+        justify-content: space-between;
+    }
+    .text{
+        color: black;
+    }
+    .flex1{
+        display: flex;
+        flex-direction: row;
+    }
+    .green{
+        color: green;
+        font-weight: bold;
+    }
+    .red{
+        color: red;
+        font-weight: bold;
+    }
+    .large-none{
+        display: none;
+    }
+
+}
+@media (max-width:766px) {
+    .small-none{
+        display: none;
+    }
+    .home-background{
+        display: flex;
+        font-family: "Roboto";
+        background-color: aliceblue;
+        }
+        .home-container{
+     
+            width:80vw;
+            padding: 10px;
+        }
+        .home-container1{
+            display: flex;
+            justify-content: space-between;
+    
+        }
+        .search-container{
+            margin-top: 8px;
+            background-color: white;
+        }
+        .product-container1{
+            display: flex;
+            justify-content: space-between;
+        }
+        .product-background{
+            background-color: white;
+            padding: 10px;
+            border-radius: 25px;
+        }
+        .search-container1{
+            margin-top: 5px;
+           
+            background-color: aliceblue;
+            border-radius: 10px;
+        }
+        .product-heading{
+            font-size: 10px;
+        }
+        .item-heading{
+            font-size: 10px;
+        }
+        .para{
+            color: lightgray;
+            font-size: 10px;
+    
+        }
+        .margin-right{
+            margin-right: 5px;
+            font-size: 10px;
+        }
+        .stock-margin{
+            margin-right: 10px;
+            font-size: 10px;
+        }
+        .price-margin{
+            margin-right: 20px;
+            font-size: 10px;
+        }
+        .sales-margin{
+            margin-right: 10px;
+            font-size: 10px;
+        }
+        .hand{
+            margin-top: 5px;
+            background-color: blanchedalmond;
+            border-radius: 7px;
+        }
+        .search-icon{
+            font-size: 20px;
+            margin: 5px;
+        }
+        .search{
+            border-width: 0;
+        }
+        .search1{
+            border-width: 0;
+            background-color: aliceblue;
+        }
+        .container{
+            display: flex;
+            justify-content: space-between;
+        }
+        .container1{
+            background-color: white;
+            padding: 2px;
+            border-radius: 10px;
+            margin-right: 10px;
+            display: flex;
+            flex-direction: column;
+            width:15vw;
+            margin-bottom: 5px;
+            margin-top: 5px;
+        }
+        .para2{
+            font-size: 10px;
+        }
+        .head{
+            font-size: 12px;
+        }
+        .para1{
+            font-size: 10px;
+        }
+        .symbol{
+            font-size: 25px;
+            margin-top: 5px;
+            color:green;
+            background-color: lightgreen;
+            
+            border-radius: 50px;
+        }
+        .symbol2{
+            font-size: 25px;
+            margin-top: 5px;
+            color:purple;
+            background-color: rgba(206, 133, 222, 0.947);
+
+            border-radius: 50px;
+        }
+        .symbol3{
+            font-size: 25px;
+            margin-top: 5px;
+            color:blue;
+            background-color: lightblue;
+            padding: 5px;
+            border-radius: 50px;
+        }
+        .symbol4{
+            font-size: 25px;
+            margin-top: 5px;
+            color:red;
+            background-color: lightpink;
+            padding: 5px;
+            border-radius: 50px;
+        }
+        
+        .image{
+            height: 5vh;
+            margin-top: 10px;
+            margin-right: 10px;
+        }
+        .para3{
+            font-size: 10px;
+            color: lightgray;
+        }
+        .select{
+            margin-top: 20px;
+        }
+        .bar-graph{
+            background-color: white;
+            width: 40vw;
+            margin-bottom: 10px;
+            margin-right: 10px;
+        }
+        .pie-chart{
+            background-color: white;
+            width: 25vw;
+            height: 35vh;
+            padding: 10px;
+        }
+        .flex{
+            display: flex;
+            justify-content: space-between;
+        }
+        .text{
+            color: black;
+        }
+        .flex1{
+            display: flex;
+            flex-direction: row;
+        }
+        .green{
+            color: green;
+            font-weight: bold;
+            font-size: 7px;
+        }
+        .red{
+            color: red;
+            font-weight: bold;
+            font-size: 7px;
+        }
+        .text{
+            font-size: 10px;
+        }
+}

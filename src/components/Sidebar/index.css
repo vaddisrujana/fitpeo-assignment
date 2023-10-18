@@ -1,0 +1,122 @@
+@media (min-width:767px)  {
+    .sidebar-background{
+        width:15vw;
+        height:100vh;
+        background-color: rgb(31, 4, 62);
+        color: #fbfcfaf1;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding:10px;
+        font-family: "Roboto";
+    }
+    .flex{
+        display: flex;
+    }
+    .sidebar-container{
+        display: flex;
+        justify-content: space-between;
+        cursor: pointer;
+    }
+    .icon{
+        font-size: 40px;
+        margin-top: 13px;
+        padding: 10px;
+    }
+    .icon1{
+        font-size: 30px;
+        padding: 10px;
+    }
+    .right-icon{
+        font-size: 20px;
+        margin-top: 15px;
+    }
+    .down-arrow{
+        color:rgb(149, 149, 150);
+        font-size: 20px;
+        margin-top: 25px;
+        
+    }
+    .profile{
+        display: flex;
+        justify-content: space-between;
+        background-color: #ffffff33;
+        padding: 10px;
+    }
+    .profile_pic{
+        height:5vh;
+        margin-top: 20px;
+        margin-right: 10px;
+    }
+    .button{
+        background-color: transparent;
+        border-width: 0;
+    }
+    .background{
+        background-color: #ffffff33;
+    }
+    .large-none{
+        display: none;
+    }
+}
+@media (max-width:766px) {
+    .sidebar-background{
+        width:15vw;
+        height:100vh;
+        background-color: rgb(31, 4, 62);
+        color: #fbfcfaf1;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding:10px;
+        font-family: "Roboto";
+    }
+    .flex{
+        display: flex;
+    }
+    .sidebar-container{
+        display: flex;
+        justify-content: space-between;
+        cursor: pointer;
+    }
+    .icon{
+        font-size: 40px;
+        margin-top: 13px;
+        padding: 10px;
+    }
+    .icon1{
+        font-size: 30px;
+        padding: 10px;
+    }
+    .right-icon{
+        font-size: 20px;
+        margin-top: 15px;
+    }
+    .down-arrow{
+        color:rgb(149, 149, 150);
+        font-size: 20px;
+        margin-top: 25px;
+        
+    }
+    .profile{
+        display: flex;
+        justify-content: space-between;
+        background-color: #ffffff33;
+        padding: 10px;
+    }
+    .profile_pic{
+        height:5vh;
+        margin-top: 20px;
+        margin-right: 10px;
+    }
+    .button{
+        background-color: transparent;
+        border-width: 0;
+    }
+    .background{
+        background-color: #ffffff33;
+    }
+    .small-none{
+        display: none;
+    }
+}
